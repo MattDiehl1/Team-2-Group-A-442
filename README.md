@@ -1,5 +1,12 @@
 # Team-2-Group-A-442
-Repository for Team 2 group A in IECE 442 
+[Repository for Team 2 group A in IECE 442]
+
+------------------------------------------
+
+We are working on a weather monitoring station that 
+can be reproduced and linked to a larger array of 
+systems that monitors microclimates in New York State.
+Our particular subsystem is the data acquisition system.
 
 -----------------------------------------
 
