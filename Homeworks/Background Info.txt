@@ -1,8 +1,0 @@
-https://projects.raspberrypi.org/en/projects/build-your-own-weather-station
-The link above is a detailed tutorial given on the official raspberry pi webpage on how to build your own weather station. The article could be a good starting point for building our own weather station and could inspire our design. 
-
-https://www.acurite.com/shop-all/weather-instruments/weather-stations.html?p=2
-The link above is a list of the bestselling commercial personal weather stations. Looking at commercial examples of what we are trying to create can give good insight into what the most important pieces of equipment are for a home weather station. 
-
-https://youtu.be/snCp0TqrER4?si=zUvQsL2rBN-B60tk
-The link above is for a short 12-minute YouTube video where a man describes how he created a home weather monitoring system. He talks about what he got right and mistakes he made when making the station. The video is a good background to see what some other people
