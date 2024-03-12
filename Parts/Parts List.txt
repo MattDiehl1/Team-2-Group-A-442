@@ -1,7 +1,7 @@
-Tempurature/Humidity/Air Pressure:
+Tempurature/Humidity/Air Pressure: (Anthony Testa)
 	ENV III (SHT30+QMP6988)
 https://shop.m5stack.com/products/env-iii-unit-with-temperature-humidity-air-pressure-sensor-sht30-qmp6988
 
-Precipitation Sensor:
+Precipitation Sensor: (Anthony Testa)
 	Orbit 57069N Rain and Freeze Sensor 
 https://www.amazon.com/Orbit-Sprinkler-System-Freeze-Sensor/dp/B000A7SPPU/ref=sr_1_5?dib=eyJ2IjoiMSJ9.db_du_g9fLTz_VSjST8hwDiAXvTHgJnj-2snw27wC6bNI1qrOWMrtvP31IrX4VkH7W38Bgqpt7uIGnk5w4K-LrJKUzFQSWnOXEcw_ML4k1_zi-cO2g5wbcqtzHlrtM2JRkCQ2WrjcHwGZNBBo_gJwzKzgNtX-XRza91UyT3M9AHNEUr_D4WfW_sU-cEgH93Z0OFpOvh2KxjW6RMJ_kXAgx14Ict5EMvRM1xw3FAY0RcRYzGQwK7Iqte_Akican8acezk3D49ksOY58GWi8svGmfJq2Pm-zPSlQuciTZhgkI.SIdWqAZ5wfkIOm0b46kL9r5LyKKJbYiL9tLHjgj12Ek&dib_tag=se&keywords=rain%2Bsensor&qid=1710282095&sr=8-5&th=1
