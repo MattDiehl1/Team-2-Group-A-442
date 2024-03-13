@@ -5,3 +5,16 @@ https://shop.m5stack.com/products/env-iii-unit-with-temperature-humidity-air-pre
 Precipitation Sensor: (Anthony Testa)
 	Orbit 57069N Rain and Freeze Sensor 
 https://www.amazon.com/Orbit-Sprinkler-System-Freeze-Sensor/dp/B000A7SPPU/ref=sr_1_5?dib=eyJ2IjoiMSJ9.db_du_g9fLTz_VSjST8hwDiAXvTHgJnj-2snw27wC6bNI1qrOWMrtvP31IrX4VkH7W38Bgqpt7uIGnk5w4K-LrJKUzFQSWnOXEcw_ML4k1_zi-cO2g5wbcqtzHlrtM2JRkCQ2WrjcHwGZNBBo_gJwzKzgNtX-XRza91UyT3M9AHNEUr_D4WfW_sU-cEgH93Z0OFpOvh2KxjW6RMJ_kXAgx14Ict5EMvRM1xw3FAY0RcRYzGQwK7Iqte_Akican8acezk3D49ksOY58GWi8svGmfJq2Pm-zPSlQuciTZhgkI.SIdWqAZ5wfkIOm0b46kL9r5LyKKJbYiL9tLHjgj12Ek&dib_tag=se&keywords=rain%2Bsensor&qid=1710282095&sr=8-5&th=1
+
+
+Temperature and Humidity Sensor Breakout Board (Hemel Debnath)
+       Adafruit HTS221 Temperature and Humditiy Sensor Breakout Board (STEMMA QT / Qwiic)
+    https://www.adafruit.com/product/4535
+
+
+Temperature, Humidity, Pressure, and Gas Sensor (Hemel Debnath)
+       Adafruit BME680 - Temperature, Humidity, Pressure, and Gas Sensor (STEMMA QT)
+https://www.adafruit.com/product/3660
+
+
+
