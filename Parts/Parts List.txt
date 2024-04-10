@@ -1,6 +1,6 @@
 Device box options (Anthony Testa)
 https://www.amazon.com/QILIPSU-Stainless-150x150x90mm-Waterproof-Electrical/dp/B089K6Z567?ref_=ast_sto_dp&th=1
-
+       Addons for box - https://www.amazon.com/Plastic-Polyethylene-Rectangular-Projects-Improvement/dp/B0CQ89RM67/ref=sr_1_149?crid=3FOA38F6S92KB&dib=eyJ2IjoiMSJ9.LJLOhZdQBmfoVtUhzkswEixpD1XVtQk2aRnOr6f3_fOKoO_7UNtrZ6Y8r_IRlBO_K2X2qGvudutUSZXR4Sbcn_4GyGXH0g_dxORDtH3a1xPL-e_X2dRiJZjlQSnZVo4EuOT8qhm2uRNxhd4cnGDgq15CKtLc5KtzRRlZbEsoOKJa0WywDC3n_ngPHtMvBY5YZQuxzFYZyhUJvLjNSyH9aD6XxQc56Ae_rtPIE6bVfBqQdTF1KOldbumzYZcDfKIfxZkgPIaaOQ-hLjni9ycamJaKt5_A3yG2H2KOLIBGODM.WnDZ9Et3D_jjU4TYN7IHa1Riwj4ywZk-IamxSVVj_Ls&dib_tag=se&keywords=thick%2Bplastic%2Bsheet&qid=1712766589&sprefix=thick%2Bplastic%2Bsheet%2Caps%2C99&sr=8-149&th=1
 
 
 Temperature and Humidity Sensor Breakout Board (Hemel Debnath)
