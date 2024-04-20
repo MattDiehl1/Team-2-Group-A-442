@@ -1,4 +1,6 @@
-#include <ArduinoLowPower.h>
+#include <LowPower.h>
+
+
 
 // Basic demo for reading Humidity and Temperature
 #include <Wire.h>
@@ -11,13 +13,17 @@
 #define HTS_SCK 13
 #define HTS_MISO 12
 #define HTS_MOSI 11
+#define ledPin 6
+#define sensorPin A0
 float farenheit_temp;
 
 Adafruit_HTS221 hts;
 void setup(void) {
   Serial.begin(115200);
+  pinMode(ledPin, OUTPUT);
+  digitalWrite(ledPin, LOW);
   Serial.println("CLEARSHEET");
-  Serial.println("LABEL,Time,Humidity (rH),Temperature (F)");
+  Serial.println("LABEL,Time,Time Elapsed, Humidity (rH),Temperature (F), Raining?");
   while (!Serial) delay(10);     // will pause Zero, Leonardo, etc until serial console opens
 
   Serial.println("Adafruit HTS221 test!");
@@ -42,6 +48,18 @@ void setup(void) {
 
 }
 
+int readSensor() {
+
+  int sensorValue = analogRead(sensorPin);  // Read the analog value from sensor
+
+  int outputValue = map(sensorValue, 0, 1023, 255, 0); // map the 10-bit data to 8-bit data
+
+  analogWrite(ledPin, outputValue); // generate PWM signal
+
+  return outputValue;             // Return analog rain value
+
+} 
+
 void loop() {
 
   sensors_event_t temp;
@@ -49,9 +67,20 @@ void loop() {
   hts.getEvent(&humidity, &temp);// populate temp and humidity objects with fresh data
   farenheit_temp = 32+((float)temp.temperature * (float)9/5);
   Serial.print("DATA,TIME,");
+  Serial.print("TIMER,");
   Serial.print(humidity.relative_humidity);
   Serial.print(",");
-  Serial.println(farenheit_temp);
-
-  LowPower.deepSleep(10000);
+  Serial.print(farenheit_temp);
+  Serial.print(",");
+  if(readSensor() > 50){
+  Serial.println("Drizzle");
+  }
+  else if(readSensor() > 500){
+    Serial.println("Storm");
+  }
+  else if(readSensor() < 5){ 
+    Serial.println("No rain");
+  }
+  delay(2000);
+  LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
 }
