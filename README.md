@@ -1,5 +1,12 @@
-# Team-2-Group-A-442
-[Repository for Team 2 group A in IECE 442]
+# Data Acquisition Unit 
+## Repository for Team 2A (IECE442)
+
+We are working on a Weather Monitoring Station that Can Be Reproduced and Linked to a Larger Array of Systems which will Monitor Microclimates in New York State. Data collected from each system is then transmitted to the New York State Department of Environmental Conservations (NYSDEC) for analysis.
+
+### Data Acquisition Subsystem
+
+Our particular subsystem is a **Data Acquisition System**. The system is contained within a plastic weatherproof enclosure housing an Arduino Uno microcontroller for data processing and collection from a temperature/humidity and precipitation sensor. Each of the precipitation and temperature/humidity sensor are enclosed outside the enclosure to allow for proper data collection. After processing, data is stored within an Excel file and sent immediately to an analyst with NYSDEC
+
 
 ------------------------------------------
 
