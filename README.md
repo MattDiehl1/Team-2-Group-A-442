@@ -1,7 +1,7 @@
 # Data Acquisition Unit 
 ## Repository for Team 2A (IECE442)
 
-##Matthew Diehl, Anthony Testa, Hemel Debnath, Bilal Mahmood##
+Matthew Diehl, Anthony Testa, Hemel Debnath, Bilal Mahmood
 
 We are working on a Weather Monitoring Station that Can Be Reproduced and Linked to a Larger Array of Systems which will Monitor Microclimates in New York State. Data collected from each system is then transmitted to the New York State Department of Environmental Conservations (NYSDEC) for analysis.
 
